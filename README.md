@@ -40,3 +40,4 @@ Open `http://127.0.0.1:5000`. Pages: `/` (home), `/dashboard`, `/story`.
 
 ## Links
 - Story: https://public.tableau.com/app/profile/yashvi.agrawal5558/viz/Global_Olympic_Analysis/OlympicPerformanceStory?publish=yes
+- Demo-link: https://drive.google.com/file/d/1PfFm0EiIZjC0V0H3K6KzKo9flS6iw2C5/view?usp=sharing
