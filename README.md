@@ -31,13 +31,6 @@ Covers 60 countries, 7 regions and 21 sport categories.
 - Average medal efficiency is 31.8%; South America (49.6%) is the most efficient region.
 - High-investment nations win more medals per entry (18.7) than Low (2.4), but are less efficient per athlete.
 
-## Run the Flask app
-```
-pip install flask
-python app.py
-```
-Open `http://127.0.0.1:5000`. Pages: `/` (home), `/dashboard`, `/story`.
-
 ## Links
 - Story: https://public.tableau.com/app/profile/yashvi.agrawal5558/viz/Global_Olympic_Analysis/OlympicPerformanceStory?publish=yes
 - Demo-link: https://drive.google.com/file/d/1PfFm0EiIZjC0V0H3K6KzKo9flS6iw2C5/view?usp=sharing
